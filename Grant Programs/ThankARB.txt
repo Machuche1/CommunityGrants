@@ -1,0 +1,21 @@
+PROGRAM NAME: ThankARB
+
+PROGRAM DESCRIPTION: Thank Arbitrum is allocating $3.2M in ARB through 10 Grants Programs to top crypto builders and contributors.
+
+PROGRAM URL: https://thankarb.com
+
+PROGRAM APPLICATION URL: ttps://thankarb.com
+
+PROGRAM FUNDING AMOUNT: Various amounts from their pool of $3.2M in ARB
+
+PROGRAM REQUIREMENTS: Various requirements depending on which of the 10 grant programs are being applied to.
+
+PROGRAM OBLIGATIONS: Various obligations depending on which of the 10 grant programs are being applied to, but may require onchain actions.
+
+PROGRAM CYCLE: On-going
+
+PROGRAM DEADLINE: On-going
+
+PROGRAM CONTACT: support@thriveprotocol.com
+
+PROGRAM STATUS: Active

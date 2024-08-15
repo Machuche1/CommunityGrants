@@ -1,0 +1,21 @@
+PROGRAM NAME: This is the name for the grant program you are contributing
+
+PROGRAM DESCRIPTION: This is a brief description of the grant program you are contributing
+
+PROGRAM URL: This is the URL where the grant program details can be found
+
+PROGRAM APPLICATION URL: This is the URL for the application to the grant program
+
+PROGRAM FUNDING AMOUNT: This is the amount of funding available through the grant program
+
+PROGRAM REQUIREMENTS: These are the requirements for applying to the grant program
+
+PROGRAM OBLIGATIONS: These are the obligations associated with receiving funding from the grant program
+
+PROGRAM CYCLE: This is the cycle for the grant program (e.g. annual, bi-annual, etc.)
+
+PROGRAM DEADLINE: This is the deadline for applying to the grant program, if applicable.
+
+PROGRAM CONTACT: This is the contact information for the grant program, if available.
+
+PROGRAM STATUS: The status of the grant program, either Active, Inactive, Completed, or Upcoming

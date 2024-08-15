@@ -1,0 +1,11 @@
+RESOURCE NAME: This is the name for the resource you are contributing
+
+RESOURCE DESCRIPTION: This is a brief description of the resource you are contributing
+
+RESOURCE URL: This is the URL where the resource can be found
+
+RESOURCE TYPE: This is the type of resource you are contributing (e.g. website, document, video, etc.)
+
+RESOURCE TOPIC: This is the topic of the resource you are contributing (e.g. grant writing, fundraising, etc.)
+
+EXTRA INFO: This is any additional information you would like to include about the resource you are contributing, if any.

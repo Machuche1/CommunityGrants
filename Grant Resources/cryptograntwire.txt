@@ -1,0 +1,11 @@
+RESOURCE NAME: Crypto Grant Wire
+
+RESOURCE DESCRIPTION: Crypto Grant Wire is an update feed detailing the happenings across Web3 grants, DAO Governance, insightful thoughts, and tools we think you might find interesting.
+
+RESOURCE URL: https://t.me/cryptograntwire
+
+RESOURCE TYPE: Telegram Channel
+
+RESOURCE TOPIC: Grant news and updates
+
+EXTRA INFO: -
