@@ -10,7 +10,7 @@ _This project was partly funded by the Cartographer's Syndicate ThankARB grant s
 
 VIDEO INSTRUCTIONS:
 
-- Coming soon!
+- [How to contribute](https://drive.google.com/file/d/1V0r3sTyIa0yGFu3kqUI1ox1RHQCNX4qk/view?usp=sharing)
 
 STEP BY STEP INSTRUCTIONS:
 
